@@ -1,4 +1,4 @@
-# Report Generator Linea [EN]
+# Linea Report Generator [EN]
 A report generator made in python, that saves in .docx
 
 ## How it works?
